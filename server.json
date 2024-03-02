@@ -1,12 +1,6 @@
 {
   "task": [
     {
-      "id": "928e",
-      "task": "hello ",
-      "description": "Kalendocopie",
-      "status": "doing"
-    },
-    {
       "id": "f10e",
       "task": "Doing a Class",
       "description": "whatafoca",
@@ -23,6 +17,12 @@
       "task": "Run Something",
       "description": "Coding a lot",
       "status": "doing"
+    },
+    {
+      "id": "8fc4",
+      "task": "wash my theets",
+      "description": "wash my theets with colgate pasta",
+      "status": "todo"
     }
   ]
 }
